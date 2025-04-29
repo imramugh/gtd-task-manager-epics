@@ -6,18 +6,18 @@ This repository contains the epics and user stories for a Getting Things Done (G
 
 Each epic is stored in its own markdown file with detailed user stories, acceptance criteria, and testing requirements:
 
-| Epic | File | Description |
-|------|------|-------------|
-| 1 | [User Account Management](epic-1-user-account-management.md) | User registration, authentication, profiles, and security |
-| 2 | [Capture System](epic-2-capture-system.md) | Quick input mechanisms across platforms for collecting thoughts and items |
-| 3 | [Clarification Process](epic-3-clarification-process.md) | Tools for processing and organizing captured items |
-| 4 | [Organization System](epic-4-organization-system.md) | List management, calendar integration, and reference material organization |
-| 5 | [Context Management](epic-5-context-management.md) | Creation, customization, and filtering of contexts |
-| 6 | [Review Framework](epic-6-review-framework.md) | Daily, weekly, and horizon review tools |
-| 7 | [Engaging Interface](epic-7-engaging-interface.md) | Dashboard, focus mode, progress tracking, and task completion workflow |
-| 8 | [Integration Capabilities](epic-8-integration-capabilities.md) | Calendar, email, cloud storage integration, and API development |
-| 9 | [Mobile Experience](epic-9-mobile-experience.md) | Progressive web app, offline functionality, and mobile optimization |
-| 10 | [Collaboration Features](epic-10-collaboration-features.md) | Shared projects, team contexts, delegation, and communication tools |
+| Epic | Name | GitHub Issues | Description |
+|------|------|--------------|-------------|
+| 1 | User Account Management | [Issues #1-5](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-1) | User registration, authentication, profiles, and security |
+| 2 | Capture System | [Issues #6-12](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-2) | Quick input mechanisms across platforms for collecting thoughts and items |
+| 3 | Clarification Process | [Issues #13-21](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-3) | Tools for processing and organizing captured items |
+| 4 | Organization System | [Issues #22-31](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-4) | List management, calendar integration, and reference material organization |
+| 5 | Context Management | [Issues #32-36](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-5) | Creation, customization, and filtering of contexts |
+| 6 | Review Framework | [Issues #37-41](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-6) | Daily, weekly, and horizon review tools |
+| 7 | Engaging Interface | [Issues #42-46](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-7) | Dashboard, focus mode, progress tracking, and task completion workflow |
+| 8 | Integration Capabilities | [Issues #47-51](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-8) | Calendar, email, cloud storage integration, and API development |
+| 9 | Mobile Experience | [Issues #52-56](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-9) | Progressive web app, offline functionality, and mobile optimization |
+| 10 | Collaboration Features | [Issues #57-61](https://github.com/imramugh/gtd-task-manager-epics/issues?q=is%3Aissue+label%3Aepic-10) | Shared projects, team contexts, delegation, and communication tools |
 
 ## Epic Structure
 
